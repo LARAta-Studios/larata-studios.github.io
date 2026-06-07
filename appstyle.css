@@ -137,8 +137,9 @@ h1 {
 .grid-container img {
     height: 100%;
     width: 100%;
-    border-radius: .5em;
+    border-radius: 16px;
     transition: 100ms ease;
+    border: 3px solid ;
 }
 
 .grid-container img:hover {

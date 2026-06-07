@@ -43,7 +43,7 @@ nav ul {
     display: flex;
     align-items: center;
     list-style-type: none;
-    gap: 2em;
+    gap: 1em;
 }
 
 nav li:first-child {
@@ -60,6 +60,24 @@ nav a {
 nav a:hover {
     text-decoration:  underline;
 
+}
+
+.socials-img-ig {
+    scale: 110%;
+    border-radius: 5px;
+}
+.socials-img-yt {
+    
+    border-radius: 0px;
+}
+
+.socials-img-tktk {
+    scale: 125%;
+    border-radius: 0px;
+}
+
+.socials-img-ghub {
+    scale: 125%;
 }
 
 header, section {
